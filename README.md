@@ -1,6 +1,6 @@
 # WordleSolver
 
-For educational purposes, a simple script that assists in solving the word game [Wordle](https://www.powerlanguage.co.uk/wordle/).
+This is a simple script that assists in solving the word game [Wordle](https://www.powerlanguage.co.uk/wordle/).
 
 ## Instructions
 
@@ -24,7 +24,7 @@ For educational purposes, a simple script that assists in solving the word game 
 4. Run the cell to generate a new list of words.
 5. Repeat till you solve the word of the day.
 
-Contributed by: Gregg R. Saldutti
+## Contributed by: Gregg R. Saldutti
 
 Email: greggnyc1@gmail.com
 
